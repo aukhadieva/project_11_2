@@ -1,5 +1,8 @@
-def str_func(string):
-    return string.upper()
+def str_func(data):
+    """
+    Функция, которая принимает на вход строку и возвращает ее со всеми заглавными буквами.
+    """
+    return data.upper()
 
 
 def str_func2(string):
