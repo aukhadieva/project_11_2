@@ -5,11 +5,11 @@ def str_func(data):
     return data.upper()
 
 
-def str_func2(string):
+def str_func2(data):
     """
     Функция, которая делает заглавными первые буквы каждого слова в строке, поступившей на вход функции.
     """
-    return string.title()
+    return data.title()
 
 def str_func3(string):
     """
